@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/asd/resources/views/xml/renderAdmin.xsl</file>
+            <file>file:/C:/xampp/htdocs/asd/resources/views/xml/Admin.xml</file>
+            <file>file:/C:/xampp/htdocs/asd/app/Http/Controllers/CustController.php</file>
+            <file>file:/C:/xampp/htdocs/asd/app/Models/Staff.php</file>
+            <file>file:/C:/xampp/htdocs/asd/resources/views/searchCust.blade.php</file>
+            <file>file:/C:/xampp/htdocs/asd/resources/views/StaffLogin.blade.php</file>
+            <file>file:/C:/xampp/htdocs/asd/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/asd/resources/views/DisplayStaff.blade.php</file>
+            <file>file:/C:/xampp/htdocs/asd/app/Http/Controllers/StaffController.php</file>
+        </group>
+    </open-files>
+</project-private>
