@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="renderAdmin.xsl" ?>
+
+<employee>
+    <admin>
+        <ID>9292</ID>
+        <email>admin</email>
+        <password>admin</password>
+    </admin>
+    <admin>
+        <ID>9293</ID>
+        <email>admint</email>
+        <password>admint</password>
+    </admin>
+    <admin>
+        <ID>9294</ID>
+        <email>adminh</email>
+        <password>adminh</password>
+    </admin>
+</employee>
